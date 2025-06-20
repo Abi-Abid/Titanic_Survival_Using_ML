@@ -1,4 +1,5 @@
-![daniele-d-andreti-CVvjUrsDIXE-unsplash](https://github.com/user-attachments/assets/bf388344-8996-4963-9e85-78ed6f5b618a)
+![noaa-e0eHtnr7eeU-unsplash](https://github.com/user-attachments/assets/1eb87a4a-65b3-42c8-85e0-c8df4a81bf90)
+
 
 
 # Titanic Survival Prediction using Machine Learning
